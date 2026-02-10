@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: todo-backend
+Version: 1.0.0
+Summary: Todo application backend
+Author-email: Developer <dev@example.com>
+Requires-Dist: fastapi>=0.104.1
+Requires-Dist: uvicorn[standard]>=0.24.0
+Requires-Dist: sqlmodel>=0.0.16
+Requires-Dist: pydantic>=2.5.0
+Requires-Dist: pydantic-settings>=2.1.0
+Requires-Dist: better-auth>=0.0.1b11
+Requires-Dist: python-jose[cryptography]>=3.3.0
+Requires-Dist: passlib[bcrypt]>=1.7.4
+Requires-Dist: python-multipart>=0.0.6
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: asyncpg>=0.29.0
+Requires-Dist: email-validator>=2.1.0
